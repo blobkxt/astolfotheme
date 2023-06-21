@@ -16,10 +16,10 @@
     --memberlistransparency: 0;
     --accentcolor: 238,146,177;
     --background: url("https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png");
-    --backdrop: rgba(0,0,0,0.2);
-    --backgroundblur: 0.3px;
-    --popoutblur: 0.5px;
-    --backdropblur: 0.7px;
+    --backdrop: rgba(0,0,0,0.1);
+    --backgroundblur: 0.05px;
+    --popoutblur: 0.1px;
+    --backdropblur: 0.05px;
     --version1_0_5:none;
     --backgroundsize: cover;
     --popoutsize: cover;
