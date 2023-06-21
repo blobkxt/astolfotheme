@@ -17,9 +17,9 @@
     --accentcolor: 250,140,244;
     --background: url("https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png");
     --backdrop: rgba(0,0,0,0.1);
-    --backgroundblur: 0px;
-    --popoutblur: 0.1px;
-    --backdropblur: 0px;
+    --backgroundblur: 1px;
+    --popoutblur: 2px;
+    --backdropblur: 3px;
     --version1_0_5:none;
     --backgroundsize: cover;
     --popoutsize: cover;
