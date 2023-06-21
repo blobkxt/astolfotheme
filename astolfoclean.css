@@ -20,7 +20,7 @@
    */
   --background-image: url("https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
-  --accent: 250, 132, 230; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
+  --accent: 191, 132, 250; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
@@ -41,11 +41,11 @@
   --rs-medium-width: 2px; /* Default: 2px */
   --rs-large-width: 2px; /* Default: 2px */
   /* Customizable colors */
-  --rs-online-color: #fa84e6; /* Default: #43b581 */
+  --rs-online-color: #bf84fa; /* Default: #43b581 */
   --rs-idle-color: #faa61a; /* Default: #faa61a */
   --rs-dnd-color: #f04747; /* Default: #f04747 */
   --rs-offline-color: #636b75; /* Default: #636b75 */
-  --rs-streaming-color: #fa84e6; /* Default: #643da7 */
+  --rs-streaming-color: #bf84fa; /* Default: #643da7 */
   --rs-invisible-color: #747f8d; /* Default: #747f8d */
   --rs-phone-color: var(--rs-online-color); /* Color of the phone for mobile users | Default: var(--rs-online-color) */
   --rs-phone-visible: block; /* Visibility of the phone for mobile users | Default: block */
